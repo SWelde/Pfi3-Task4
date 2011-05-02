@@ -5,4 +5,7 @@
    <string name="message">Message</string>
    <string name="submit_label">Submit</string> 
    <string name="editText2">MessageText</string>
+   <string name="login">Login</string>
+   <string name="password">Password</string>
+   <string name="login_label">Login</string>
 </resources>

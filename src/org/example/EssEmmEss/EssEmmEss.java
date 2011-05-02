@@ -5,7 +5,6 @@ import org.example.EssEmmEss.Submit;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.text.Editable;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.EditText;
