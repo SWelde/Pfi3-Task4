@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string name="app_name">EssEmmEss</string>
-   <string name="tag">Tag</string>
-   <string name="message">Message</string>
-   <string name="submit_label">Submit</string> 
-   <string name="editText2">MessageText</string>
-   <string name="login">Login</string>
-   <string name="password">Password</string>
-   <string name="login_label">Login</string>
+	<string name="hello">Ess Emm Ess</string>
+	<string name="app_name">Ess Emm Ess</string>
+	<string name="main_title">Android Soduku</string>
+	<string name="continue_label">Continue</string>
+	<string name="new_label">New Game</string>
+	<string name="about_label">About</string>
+	<string name="exit_label">Exit</string>
+	<string name="tagruta">Your tags here...</string>
+	<string name="textruta">Your text here...</string>
+	<string name="submitbtn">Submit</string>
 </resources>

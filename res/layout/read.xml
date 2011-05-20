@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<RelativeLayout
-   xmlns:android="http://schemas.android.com/apk/res/android"
-   android:background="@color/background"
-   android:layout_height="fill_parent"
-   android:layout_width="fill_parent" 
-   android:orientation="vertical">
-    	<ListView android:id="@+id/listView1" 
-    	android:layout_width="match_parent" 
-    	android:layout_height="wrap_content" 
-    	android:layout_above="@+id/update" 
-    	android:layout_alignParentTop="true"
-    	android:layout_marginBottom="10dip">
-    	</ListView>
-    	<Button android:text="Update" 
-    	android:layout_width="250dip" 
-    	android:id="@+id/update" 
-    	android:layout_marginBottom="10dip" 
-    	android:layout_gravity="bottom" 
-    	android:layout_height="wrap_content" 
-    	android:layout_alignParentBottom="true" 
-    	android:layout_centerHorizontal="true">
-    	</Button>  
-</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"	android:background="@color/background" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="fill_parent">	<TableLayout android:id="@+id/tableLayout1" android:layout_width="match_parent" android:layout_height="fill_parent">	 <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Messages" android:textSize="25sp"></TextView>	 <ListView android:id="@+id/listView1" android:layout_width="match_parent" android:layout_height="340sp"></ListView>	 <Button android:id="@+id/button1" android:layout_width="wrap_content" android:layout_marginLeft="50sp" android:layout_marginRight="50sp"	 android:text="Update" android:layout_gravity="bottom|center" android:layout_height="40sp"></Button>	</TableLayout>
+
+</LinearLayout>

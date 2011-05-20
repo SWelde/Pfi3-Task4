@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-   <color name="background">#3FA6C9ff</color>
+<?xml version="1.0" encoding="utf-8"?><resources>	
+	<color name="background">#8A0000</color>	
+	<color name="textclr">#3b3703</color>	
+	<color name="boxclr">#fff9b0</color>
 </resources>
